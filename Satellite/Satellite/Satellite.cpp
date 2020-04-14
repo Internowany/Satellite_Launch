@@ -7,6 +7,7 @@
 
 using namespace std;
 
+double bleeeeee = 23;
 double maxAngle = 2 * M_PI;
 double maxVelocity = 1.44;
 double missionTime = 500;
