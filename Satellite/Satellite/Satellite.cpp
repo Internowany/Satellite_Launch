@@ -16,6 +16,12 @@ double planetR = 0.006;
 int iterations = 50;
 double GM = 0.0029752;
 double a = 23;
+double AniajestFajna = 69;
+dsadassad
+dsadassadsda
+
+sdadas
+
 
 struct Tablica
 {
