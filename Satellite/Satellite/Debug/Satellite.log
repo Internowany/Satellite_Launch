@@ -1,4 +1,0 @@
-﻿  Satellite.cpp
-D:\Users\Sebastian\Desktop\Projekty_C++\Satellite\Satellite\Satellite.cpp(167,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-D:\Users\Sebastian\Desktop\Projekty_C++\Satellite\Satellite\Satellite.cpp(397,36): warning C4305: "inicjowanie": obcięcie z "__int64" do "double"
-  Satellite.vcxproj -> D:\Users\Sebastian\Desktop\Projekty_C++\Satellite\Debug\Satellite.exe
